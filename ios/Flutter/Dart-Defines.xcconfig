@@ -1,2 +1,3 @@
+APP_NAME=test1
+APP_IDENTIFIER=com.whitelabel.test1
 PRODUCT_BUNDLE_IDENTIFIER=com.whitelabel.test1
-APP_NAME=test2
